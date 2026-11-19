@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="01A-physical-interaction-press 1" clip-path="url(#clip0_0_5)">
+<path id="Vector" d="M800 400H0V800H800V400Z" fill="black"/>
+<path id="Vector_2" d="M400 600C510.457 600 600 510.457 600 400C600 289.543 510.457 200 400 200C289.543 200 200 289.543 200 400C200 510.457 289.543 600 400 600Z" fill="white"/>
+<path id="Vector_3" d="M300 0H500V400C500 426.522 489.464 451.957 470.711 470.711C451.957 489.464 426.522 500 400 500C373.478 500 348.043 489.464 329.289 470.711C310.536 451.957 300 426.522 300 400V0Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_0_5">
+<rect width="800" height="800" fill="white"/>
+</clipPath>
+</defs>
+</svg>

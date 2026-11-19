@@ -1,0 +1,32 @@
+/* Keep the creation form inside the same mobile content margins. */
+.wf-shell .create-layout { padding:20px 24px 32px; width:100%; max-width:none; box-sizing:border-box; }
+.create-layout>.text-button { margin:0 0 20px; font-size:14px; }
+.create-intro { margin-bottom:24px; }
+.wf-shell .create-intro h1 { color:#202020; font-size:32px; letter-spacing:-1px; line-height:1.15; margin:0 0 10px; }
+.create-intro p { font-size:14px; color:#737373; line-height:1.5; margin:0; }
+.create-layout .wf-create-cover { max-width:none; margin:0 0 26px; }
+.create-layout .wf-create-cover .gathering-cover { width:100%; height:138px; aspect-ratio:auto; border-radius:16px; padding:16px; }
+.create-layout .wf-create-cover .cover-top { font-size:12px; }
+.create-layout .wf-create-cover .cover-symbol { position:absolute; right:18px; top:40px; padding:0; }
+.create-layout .wf-create-cover .cover-symbol>.icon { width:44px; height:44px; }
+.create-layout .wf-create-cover .cover-type { max-width:75%; margin-top:auto; }
+.create-layout .wf-create-cover .cover-type strong { font-size:20px; line-height:1.1; letter-spacing:-.7px; }
+.create-layout .wf-create-cover .cover-type span,.create-layout .wf-create-cover .cover-foot { display:none; }
+.wf-shell .create-layout .card { padding:0; }
+.create-layout .card>.eyebrow { margin:0 0 18px; font-size:12px; color:#777; }
+.create-layout .form-label { margin:20px 0 8px; color:#383838; font-size:12px; line-height:1.4; }
+.create-layout .input,.create-layout .select { width:100%; min-width:0; min-height:48px; height:48px; padding:12px 14px; font-size:16px; color:#262626; border-radius:12px; background:#f0f0f0; border:1px solid #e6e6e6; box-sizing:border-box; }
+.create-layout .input::placeholder { color:#939393; font-size:14px; }
+.create-layout .form-row { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:12px; }
+.create-layout .form-row>div { min-width:0; }
+.create-layout textarea.input { height:124px; min-height:124px; resize:vertical; line-height:1.5; }
+.create-layout .demo-note { margin:8px 0 0; font-size:12px; line-height:1.5; color:#777; }
+.wf-shell .create-layout .create-actions { display:grid; grid-template-columns:auto 1fr; gap:12px; margin-top:24px; padding:16px 0 0; border-top:1px solid #e7e7e7; }
+.create-layout .create-actions .btn { min-width:0; font-size:14px; padding:14px 16px; border-radius:24px; }
+.recommendation-option { margin:24px 0 4px; padding:16px; background:#f1f1f1; border:1px solid #e5e5e5; border-radius:14px; }
+.recommendation-option label { display:flex; align-items:center; justify-content:space-between; gap:16px; font-size:14px; font-weight:600; line-height:1.4; color:#292929; cursor:pointer; }
+.recommendation-option input { width:20px; height:20px; flex-shrink:0; accent-color:#666; }
+.recommendation-option p,.recommendation-preview p { margin:9px 0 0; font-size:12px; line-height:1.5; color:#666; }
+.recommendation-option small { display:block; margin-top:8px; font-size:12px; color:#777; }
+.recommendation-preview { margin:18px 0; padding:16px; border-radius:12px; background:#f1f1f1; }
+.recommendation-preview strong { font-size:14px; }
