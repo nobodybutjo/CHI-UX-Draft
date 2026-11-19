@@ -26,7 +26,7 @@ Open http://127.0.0.1:5173. Run `npm run check` for JavaScript syntax checks.
 
 ## Explore
 
-Start with pre-registration, choose a role and interests, then create a personal badge. Explore activities, save a personal plan, switch map views, and create a sample gathering. Navigation uses a persistent bottom tab bar (For you, Activities, Map, Plan, Badge); “Create” sits in the header.
+Start with pre-registration, choose a role and interests, then create a personal badge. Explore activities, save a personal plan, switch map views, and create a sample gathering. Navigation uses a menu button at the top right (For you, Activities, Map, Plan, Badge, plus Create event), as in the original design.
 
 Profile, saved activities and created gatherings persist in this browser's local storage. Use **My badge → Start the prototype again** to reset them.
 
